@@ -29,6 +29,6 @@ Customer interaction data:-
 
 Objective :-
 
-x To predict which customer is more likely to purchase the newly introduced travel package.
-x Which variables are most significant.
-x Which segment of customers should be targeted more.
+1) To predict which customer is more likely to purchase the newly introduced travel package.
+2) Which variables are most significant.
+3) Which segment of customers should be targeted more.
